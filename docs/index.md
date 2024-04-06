@@ -5,16 +5,16 @@ hero:
   name: LIGMATV
   text: Home of my open blogs.
   image:
-    src: /logo.svg
+    src: /img/logo.svg
     alt: LIGMATV logo
   tagline: Hello! Im a (not) too excited developer, im just do it for fun in the free time.
   actions:
     - theme: brand
-      text: Try Bukumark!
-      link: https://bukumark.vercel.app/
-    - theme: alt
       text: Learn more at GitHub
       link: https://github.com/LIGMATV
+    - theme: alt
+      text: Try Bukumark!
+      link: https://bukumark.vercel.app/
     - theme: alt
       text: Blog
       link: /blog

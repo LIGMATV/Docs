@@ -1,6 +1,6 @@
 # Cara Membuat Ppt Ke Video 60 Fps!
 
-![image](https://github.com/LIGMATV/Website/assets/143163098/4339ad92-6eac-46c2-8393-d6b968b2e9e2)
+![image](/img/03-30-2024-(1).jpg)
 
 Ubah presentasi ppt ke video dengan mudah!  
 Tapi tunggu... bukan "[Export to Video](https://support.microsoft.com/en-gb/office/save-a-presentation-as-a-video%E2%80%8B-in-powerpoint-ba919059-523d-40a8-b99c-08d18996c09d)" yang biasa itu, itu hanya menyediakan 30 fps dan pengaturan biasa.  
@@ -9,17 +9,17 @@ Contohnya, kita bisa membuat fitur Ekspor Video buatan kita sendiri dengan VBA! 
 
 ## 1. Pergi ke Tab View, dan tekan tombol Macros
 
-![2024-03-30 15_28_24-](https://github.com/LIGMATV/Website/assets/143163098/e7b6b0e1-703c-4e38-a857-f7554ce6f5ca)
+![2024-03-30 15_28_24-](/img/03-30-2024-(2).jpg)
 
 ## 2. Tulis Macro namenya "Video" dan tekan tombol Create
 
-![2024-03-30 15_28_59-](https://github.com/LIGMATV/Website/assets/143163098/87e7e5ed-c5b5-4f57-be17-aa6513df6cd4)
+![2024-03-30 15_28_59-](/img/03-30-2024-(3).jpg)
 
 ## 3. Taruh kodenya, ini bagian paling penting...
 
-![2024-03-30 15_29_43-](https://github.com/LIGMATV/Website/assets/143163098/76828acd-f9fa-4765-b67d-2c7c6cfd7f6c)
+![2024-03-30 15_29_43-](/img/03-30-2024-(4).jpg)
 
-```
+```vb
 Sub Video()
 If ActivePresentation.CreateVideoStatus <> ppMediaTaskStatusInProgress Then
 For Each sld In ActivePresentation.Slides
@@ -60,12 +60,12 @@ Ini duganakan untuk mengatur Frame Per Second, ini bisa diganti dengan 30, 40, 5
 ## 5. Ekspor Videonya!
 Pergi ke Tab View, tekan tombol Macros dan pilih "Video" lalu Run!
 
-![2024-03-30 15_30_03-](https://github.com/LIGMATV/Website/assets/143163098/4fe70012-13f7-4435-bd23-4b2ca6797ce0)
+![2024-03-30 15_30_03-](/img/03-30-2024-(5).jpg)
 
 ## 6. Selesai!
 
 Pengeksporan sudah diproses, tunggu dan lihat hasilnya di folder Videos atau path `C:\Users\User\Videos`.
 
-![2024-03-30 15_30_26-](https://github.com/LIGMATV/Website/assets/143163098/211d961f-9f54-4d0a-84c2-cc46e72de64e)
+![2024-03-30 15_30_26-](/img/03-30-2024-(6).jpg)
 
 Blog dibuat pada : 30 Maret 2024

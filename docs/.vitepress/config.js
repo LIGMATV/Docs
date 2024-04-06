@@ -7,11 +7,11 @@ export default {
     ignoreDeadLinks: true,
 
     head: [
-        ['link', { rel: 'icon', href: '/logo.svg' }]
+        ['link', { rel: 'icon', href: '/img/logo.svg' }]
     ],
     
     themeConfig: {
-      logo: "/logo.svg",
+      logo: "/img/logo.svg",
       siteTitle: "LIGMATV",
       search: {
         provider: "local",
