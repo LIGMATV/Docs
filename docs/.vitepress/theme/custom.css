@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root {
+
+    --vp-c-brand-1: #07bbbc;
+    --vp-c-brand-2: #7576ac;
+    --vp-button-brand-bg: var(--vp-c-brand-1);
+
+    --vp-sidebar-width: 272px;
+    --vp-sidebar-bg-color: var(--vp-c-bg-alt);
+
+  /* Typography */
+  --vp-font-family-base: "Figtree", sans-serif;
+
+  /* Code Snippet font */
+  --vp-font-family-mono: "Space Mono", Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
