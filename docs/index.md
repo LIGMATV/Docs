@@ -5,7 +5,7 @@ hero:
   name: LIGMATV
   text: Home of my open blogs.
   image:
-    src: https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/brand/icon.svg
+    src: /logo.svg
     alt: LIGMATV logo
   tagline: Hello! Im a (not) too excited developer, im just do it for fun in the free time.
   actions:
