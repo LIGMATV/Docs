@@ -48,7 +48,7 @@ export default {
       // you can disable the previous and next page here
 
       editLink: {
-        pattern: 'https://github.com/LIGMATV/Docs/edit/main/:path',
+        pattern: 'https://github.com/LIGMATV/Docs/edit/main/docs/:path',
         text: 'Edit this page on GitHub'
       },
       footer: {
