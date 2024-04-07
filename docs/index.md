@@ -16,7 +16,7 @@ hero:
       text: Try Bukumark!
       link: https://bukumark.vercel.app/
     - theme: alt
-      text: Blog
+      text: 📔 Blog
       link: /blog
 
 features:
