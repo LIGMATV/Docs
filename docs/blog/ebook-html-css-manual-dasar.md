@@ -1,4 +1,4 @@
-# Ebook Html Css Manual Dasar
+# Ebook Html CSS Manual Dasar
 
 [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/9fab0073-c020-4b02-a146-9e5bbae2661a" width="300">](https://diybookcovers.com/3Dmockups/)
 
