@@ -1,1 +1,1 @@
-# 👈🏻 On sidebar
+# 👈🏻 Click on Blog
