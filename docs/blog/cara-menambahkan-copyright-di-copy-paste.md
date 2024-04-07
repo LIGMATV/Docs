@@ -31,7 +31,7 @@ Dan jelas saja, pengguna dan pembaca membencinya. Tapi jika kamu memang mau dan 
 # Mari kita coba!
 Kita hanya perlu menggunakan kode Javascript ini, dan taruh di website kalian!
 
-```
+```js
 const year = new Date();
 const copyListener = (event) => {
   const range = window.getSelection().getRangeAt(0),
@@ -50,7 +50,7 @@ document.addEventListener("copy", copyListener);
 Kode ini disebut sebagai solusi yang lebih kompleks untuk menangani pemformatan rich text.
 Jadi tidak hanya teks biasa, performatan teks juga bisa disupport. misalnya di Microsoft Word!
 Jika kamu ingin mengetahui apa saja fungsi-fungsi tiap baris, lihatlah kode ini
-```
+```js
 const year = new Date();                             // Untuk memberi tanggal
 const copyListener = (event) => {                    // Untuk mendeteksi penyalian
   const range = window.getSelection().getRangeAt(0), // Untuk mendeteksi teks yang diselect pengguna
