@@ -72,8 +72,7 @@ Cara bikin Prank Eror dan Virus di Windows! Sama sekali gak berbahaya kok ;) Ber
 
 Ingin skripsi lengkap? Ini dia :
 
-```
-
+```vb
 X=MsgBox ("Kesalahan saat membuka Komputer, apakah Anda ingin kami memperbaiki masalahnya?", 4+64, "Komputer")
 
 X=MsgBox ("Tidak dapat memperbaiki masalah. Apakah Anda ingin kami memindai Komputer Anda?", 3+48, "Pemindaian Komputer")
