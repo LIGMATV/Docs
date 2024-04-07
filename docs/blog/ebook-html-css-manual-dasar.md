@@ -2,7 +2,6 @@
 
 [<img src="https://github.com/LIGMATV/LIGMATV/assets/143163098/9fab0073-c020-4b02-a146-9e5bbae2661a" width="300">](https://diybookcovers.com/3Dmockups/)
 
-# Ebook HTML CSS Manual Dasar
 ### Buku tipis berisi panduan untuk belajar HTML dan CSS basis. Tidak lengkap, namun dengan mempelajari ini, kamu akan tertarik untuk mencari lagi informasi tentang HTML dan CSS di Google. Semua dimulai dari file index.html
 
 Buku ini berisi :
