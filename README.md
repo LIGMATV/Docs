@@ -1,4 +1,4 @@
-![banner](https://socialify.git.ci/LIGMATV/Docs-vite/image?description=1&font=Inter&language=1&logo=https://avatars.githubusercontent.com/LIGMATV&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
+![banner](https://socialify.git.ci/LIGMATV/Docs-Vite/image?description=1&font=Inter&language=1&logo=https://avatars.githubusercontent.com/LIGMATV&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
 
 # LIGMATV Website
 Vue JS was too clean and customized. Why im not use it since old?  
