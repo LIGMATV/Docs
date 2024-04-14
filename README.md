@@ -1,6 +1,4 @@
-![banner](https://socialify.git.ci/LIGMATV/Docs-Vite/image?description=1&font=Inter&language=1&logo=https://avatars.githubusercontent.com/LIGMATV&name=1&owner=1&pattern=Circuit%20Board&theme=Light)
-
-# LIGMATV Website
+# [LIGMATV Website](https://ligmatv.vercel.app/)<sup>Vite</sup> >> Succeeded by [(Docsify)](https://github.com/LIGMATV/LIGMATV/tree/main/docs)
 Vue JS was too clean and customized. Why im not use it since old?  
 I learn from [Adocs](https://github.com/Evavic44/adocs) :)
 
